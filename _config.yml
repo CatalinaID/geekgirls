@@ -5,6 +5,7 @@ url: https://ichakid.github.io
 description: "A web tells about geek girls life"
 skills: "A web tells about geek girls life"
 meta_author: Choirunnisa Fatima
+baseurl: "/geekgirls"
 
 # Google webmaster tools
 google_verify:
