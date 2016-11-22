@@ -2,7 +2,7 @@
 title: Catalina
 email: me@catalina.id
 description: "A web tells about geek girls life"
-skills: "A web tells about geek girls life"
+skills: "Codes and All Things About Life Itself, Need Awesomeness"
 meta_author: Choirunnisa Fatima
 
 # Google webmaster tools
@@ -24,13 +24,13 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: FF80AB #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "255,128,171" #"128,179,255"
   secondary: A2122F #FD6E8A
   secondary-dark: 5B0A1B #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Catalina
   location: Location
   social: Around the Web
   credits: Credits
