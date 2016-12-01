@@ -16,14 +16,34 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     {% if page.name == 'index.html' %}
-                        <li class="active"><a href="/">Home<br/></a></li>
+                        <li class="active"><a href="/index.html">Home<br/></a></li>
                     {% else %}
                         <li><a href="/">Home<br/></a></li>
                     {% endif %}
                     {% if page.name == 'data.html' %}
-                        <li class="active"><a href="/data">Data<br/></a></li>
+                        <li class="active"><a href="/data.html">Data<br/></a></li>
                     {% else %}
                         <li><a href="/data.html">Data<br/></a></li>
+                    {% endif %}
+                    {% if page.name == 'mobile.html' %}
+                        <li class="active"><a href="/mobile.html">Mobile<br/></a></li>
+                    {% else %}
+                        <li><a href="/mobile.html">Security<br/></a></li>
+                    {% endif %}
+                    {% if page.name == 'security.html' %}
+                        <li class="active"><a href="/security.html">Security<br/></a></li>
+                    {% else %}
+                        <li><a href="/security.html">Security<br/></a></li>
+                    {% endif %}
+                    {% if page.name == 'software.html' %}
+                        <li class="active"><a href="/software.html">Software<br/></a></li>
+                    {% else %}
+                        <li><a href="/software.html">Software<br/></a></li>
+                    {% endif %}
+                    {% if page.name == 'life.html' %}
+                        <li class="active"><a href="/life.html">Life<br/></a></li>
+                    {% else %}
+                        <li><a href="/life.html">Life<br/></a></li>
                     {% endif %}
                 </ul>
             </div>

@@ -3,7 +3,7 @@ layout: post
 section: mobile
 title: "Post with Cover Image and Text"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
-category: data
+category: software
 tags: [sample post, readability]
 imagefeature: cover9.jpg
 share: true
