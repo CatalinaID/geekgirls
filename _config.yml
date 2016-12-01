@@ -28,9 +28,13 @@ color:
   secondary: A2122F #FD6E8A
   secondary-dark: 5B0A1B #A2122F
 
+# Collection
+collections:
+  - portfolios
+
 # Footer settings
 footer:
-  copyright: Catalina
+  copyright: Catalina ID
   location: Location
   social: Around the Web
   credits: Credits

@@ -9,15 +9,15 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.categories['mothers'] %}
+                {% for mother in site.data.mothers %}
                     <div class="col-sm-6 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal-{{ mother[0] }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="{{ site.github.url }}/assets/img/mothers/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <img src="{{ site.github.url }}/assets/img/mothers/{{ mother[1].image }}" class="img-responsive" alt="{{ mother[1].name }}">
                         </a>
                     </div>
                 {% endfor %}
