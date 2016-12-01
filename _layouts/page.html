@@ -1,70 +1,51 @@
 <!DOCTYPE html>
 <html>
-<!--
-====================================================
-    __  ____  ______________  _______ ___    __ 
-   / / / /  |/  / ____/   \ \/ / ___//   |  / / 
-  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /  
- / __  / /  / / __/ / ___ |/ /___/ / ___ |/ /___
-/_/ /_/_/  /_/_/   /_/  |_/_//____/_/  |_/_____/
-                                                     
-====================================================
-Owner Name: Hossain Mohammad Faysal
-Profile: https://www.facebook.com/hmfaysal
-Version: 1.1
-Description: Awesome dude, awesome life
-====================================================
--->
 <head>
-{% include blog/head_page.html %}
+	{% include blog/head_page.html %}
 </head>
-<body class="post-template page" itemscope itemtype="http://schema.org/WebPage">
+<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+    {% include home/nav.html %}
+    {% include home/header.html %}
 
-<main id="notepad-page-container" class="notepad-page-container" role="main">
-    
-    
-        <header class="notepad-page-header">
-            <div class="notepad-page-menu-header">
-                
-                    <a class="notepad-blog-logo" href="{{ site.url }}">
-                        <img src="{{ site.url }}/images/{{ site.logo }}" alt="Blog Logo">
-                    </a>
-                
-                
-                
-                <div class="notepad-blog-menu">      
-    <div class="notepad-mobile-menu show-for-small">
-        <a href="#"><i class="fa fa-bars"></i></a>
-    </div>
-    <ul class="notepad-menu">
-        <li class="notepad-mobile-close-btn show-for-small text-right">
-            <a href="#"><i class="fa fa-times"></i></a>
-        </li>
-{% for link in site.links %}
-            <li>{% if link.external %}
-                    <a href="{{ link.url }}">{{ link.title }}</a>
-                {% else %}
-                    <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
-                {% endif %} </li>
-{% endfor %}            
-           <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-    </ul>
-</div>
-            </div>
-            <div class="notepad-page-title row">
-                <div class="small-12 columns">
-                    <h1>{{ page.title }}</h1>
-                </div>
-            </div>
-        </header>
+	<main class="notepad-content" role="main">
+	{% for post in site.categories.[page.category-name] %}
+		<article class="notepad-index-post post row">
+		    <div class="small-12 medium-3 large-2 columns datetime">
+		        <span class="notepad-post-meta">
+		            <time datetime="{{ post.date | date_to_xmlschema }}">
+		                <span class="day">
+		                    {{ post.date | date: "%d" }}
+		                </span>
+		                <span class="month-year">
+		                    {{ post.date | date: "%B %Y" }}
+		                </span>
+		            </time>
+		        </span>
+		    </div>
+		    <div class="small-12 medium-9 large-10 columns">
+		        <div class="notepad-post-header">
+		            <h3 class="notepad-post-title">
+		                <a href="{{ site.url }}{{ post.url }}">
+		                    {{ post.title }}
+		                </a>
+		            </h3>
+		        </div>
+		        <section class="notepad-post-excerpt">
+		            <p>{{ post.content | strip_html | truncatewords:40 }}</p>
+		        </section>
+		        
+		            <div class="notepad-index-post-tags">
+		            {% for tag in post.tags %}<a href="{{ site.url }}/tags/index.html#{{ post.tags | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+		                
+		            </div>
+		        
+		    </div>
+		</article>
+	{% endfor %}  
+	</main>
 
-<article class="notepad-page-content">
-                    <div>{{ content }}</div>
-</article>
-        <div class="cf"></div>
-    {% include blog/footer.html %}
-</main>
-
-{% include blog/scripts.html %}  
+	{% include blog/scripts.html %}  
+    {% include home/footer.html %}
+    {% include home/js.html %}
 </body>
 </html>

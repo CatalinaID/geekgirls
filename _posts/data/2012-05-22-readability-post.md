@@ -3,7 +3,7 @@ layout: post
 section: mobile
 title: "Testing Readability with a Bunch of Text"
 description: "A ton of text to test readability."
-category: articles
+category: data
 tags: [sample post, readability, test, intro]
 image:
   feature: so-simple-sample-image-2.jpg

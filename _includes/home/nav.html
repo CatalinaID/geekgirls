@@ -15,24 +15,16 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="page-scroll">
-                        <a href="#page-top">Home<br/></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#mothers">Data</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#background-story">Mobile</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#hands-on">Security</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#hands-on">Software</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="#hands-on">Life</a>
-                    </li>
+                    {% if page.name == 'index.html' %}
+                        <li class="active"><a href="/">Home<br/></a></li>
+                    {% else %}
+                        <li><a href="/">Home<br/></a></li>
+                    {% endif %}
+                    {% if page.name == 'data.html' %}
+                        <li class="active"><a href="/data">Data<br/></a></li>
+                    {% else %}
+                        <li><a href="/data.html">Data<br/></a></li>
+                    {% endif %}
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

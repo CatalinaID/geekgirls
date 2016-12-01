@@ -3,7 +3,7 @@ layout: post
 section: mobile
 title: "Documentation"
 description: "Instructions on how to install and customize the HMFAYSAL Notepad Theme."
-category: theme
+category: data
 tags: [how-to]
 imagefeature: cover10.jpg
 ---

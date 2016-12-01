@@ -1,20 +1,6 @@
 ---
 layout: home
+title: Catalina
+headline: Codes and All Things About Life Itself, Need Awesomeness
+image: profile.png
 ---
-
-<div class="home">
-
-  <h1>Postsss</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.github.url }}">via RSS</a></p>
-
-</div>

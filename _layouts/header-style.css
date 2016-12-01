@@ -1,2 +1,3 @@
 {% include home/css/bootstrap.min.css %}
 {% include home/css/header.css %}
+{% include blog/css/style.css %}
