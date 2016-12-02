@@ -2,6 +2,7 @@
 layout: post
 section: mobile
 title: "Introducing Notepad"
+author: hayyu
 description: 
 headline: 
 modified: 2014-07-19

@@ -2,6 +2,7 @@
 layout: post
 section: mobile
 title: "Documentation"
+author: afik
 description: "Instructions on how to install and customize the HMFAYSAL Notepad Theme."
 category: data
 tags: [how-to]
