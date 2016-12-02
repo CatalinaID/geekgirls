@@ -1,7 +1,7 @@
 ---
 layout: post
-section: mobile
 title: "Why Jekyll?"
+author: icha
 description: 
 headline: 
 modified: 2014-07-23

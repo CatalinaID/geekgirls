@@ -1,6 +1,5 @@
 ---
 layout: post
-section: mobile
 title: "Why Jekyll?"
 author: icha
 description: 

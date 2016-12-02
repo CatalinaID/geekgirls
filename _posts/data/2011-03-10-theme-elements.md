@@ -1,6 +1,5 @@
 ---
 layout: post
-section: mobile
 title: Theme Elements
 author: hayyu
 description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
@@ -108,4 +107,4 @@ Syntax highlighting via Pygments
 
 Make any link standout more when applying the `button` class.
 
-<a href="#" class="button">Default Button</a>
+<a href="#" class="btn btn-outline">Default Button</a>

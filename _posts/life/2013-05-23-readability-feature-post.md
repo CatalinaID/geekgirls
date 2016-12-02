@@ -1,7 +1,7 @@
 ---
 layout: post
-section: mobile
 title: "Post with Cover Image and Text"
+author: alifa
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 category: life
 tags: [sample post, readability]

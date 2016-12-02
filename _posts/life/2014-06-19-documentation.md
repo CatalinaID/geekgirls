@@ -1,7 +1,7 @@
 ---
 layout: post
-section: mobile
 title: "Documentation"
+author: afik
 description: "Instructions on how to install and customize the HMFAYSAL Notepad Theme."
 category: life
 tags: [how-to]
@@ -31,8 +31,11 @@ General notes and suggestions for customizing **HMFAYSAL Notepad Theme**.
 <br>
 <br>
 
-<div class="span7 text-center" markdown="0"><a href="https://github.com/hmfaysal/hmfaysal-omega-theme/archive/master.zip" class="btn btn-success btn-large"><i class="icon-download-alt"></i> Download the Theme</a></div>  
-<br>
+<div class="span7 text-center">
+    <a href="#" class="btn btn-lg btn-outline">
+        <i class="fa fa-download"></i> Download Theme
+    </a>
+</div>
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site.
 {: .notice}
@@ -288,7 +291,7 @@ Post and page thumbnails work the same way. These are used by [Open Graph](https
 
 Here's an example of what a tweet to your site could look like if you activate Twitter Cards and include all the metas in your post's YAML.
 
-<img src="{{ site.url }}/images/twitter-card-summary-large-image.jpg" alt="search screenshot">
+<img src="{{ site.github.url }}/assets/img/twitter-card-summary-large-image.jpg" alt="search screenshot">
 
 #### Social Share Links
 

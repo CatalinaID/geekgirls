@@ -1,7 +1,7 @@
 ---
 layout: post
-section: mobile
 title: "Testing Readability with a Bunch of Text"
+author: icha
 description: "A ton of text to test readability."
 category: life
 tags: [sample post, readability, test, intro]

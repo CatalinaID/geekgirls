@@ -1,7 +1,7 @@
 ---
 layout: post
-section: mobile
 title: "Introducing Notepad"
+author: hayyu
 description: 
 headline: 
 modified: 2014-07-19
@@ -26,7 +26,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 
 You can also place other images witch will be put in text.
 
-![Laptop]({{ site.url }}/images/cover3.jpg)
+![Laptop]({{ site.github.url }}/assets/img/posts/cover3.jpg)
 
 You can use Foundation Grid, but you need to write html in Ghost markdown editor (this isn't hard):
 

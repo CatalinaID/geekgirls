@@ -60,7 +60,7 @@ h3.footer-title {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #e51843;
     font-size: 20px;
     color: #fff;
     background: 0 0;
@@ -71,7 +71,7 @@ h3.footer-title {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 2px #e51843;
     color: #{{ site.color.primary }};
     background: #fff;
 }
