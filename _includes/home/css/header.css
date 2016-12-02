@@ -10,6 +10,17 @@ body {
     line-height: 1.42857143;
 }
 
+
+.notepad-post-author-avatar {
+  width: 15.9375rem;
+  height: 15.9375rem;
+  border-radius: 50%;
+  float: none;
+  margin-bottom: 1.25rem; }
+  @media only screen and (min-width: 40.063em) {
+    .notepad-post-author-avatar {
+      margin-bottom: 20px;} }
+
 a:hover, a:focus {
     text-decoration: none;
 }
@@ -82,6 +93,10 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+}
+
+header .intro-text {
+    line-height: 1.42857143;
 }
 
 header .intro-text .name {
