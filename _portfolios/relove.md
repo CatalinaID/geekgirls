@@ -3,7 +3,11 @@ modal-id: relove
 title: relove
 image: relove.png
 alt: relove-log
-project-date: April 2014
-client: 
+project-date: April 2016
+progress: mock up
+key-technologies: android
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+Do you have a stack of reloved items in ood condition? Do you always find high quality item comes with high price? Do you want to participate in social project without money? Do you think that some people need our help?
+We have the answer to your questions.
+<strong>Relove. Reloving the preloved.</strong>>
+Relove is a social-purpose marketplace for giving donation and getting high-quality-low-price items by garage sale.

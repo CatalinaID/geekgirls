@@ -3,7 +3,9 @@ modal-id: tokobat
 title: Tokobat
 image: tokobat.png
 alt: tokobat-logo
-project-date: April 2014
-client: 
+project-date: February 2016
+progress: almost prototype
+key-technologies: ionic, AngularJS, java, Spring, REST
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+Tokobat is the place for people in need of medicine and pharmacies to make transactions easily. It consists of two platforms: mobile application for people and web application for pharmacies. In android appllication, people can upload their receipt from doctors and choose the pharmacy on their own. Tokobat passes this receipt to destination pharmacy and the pharmacist can look at the order on web application. To make the payment easier, Tokobat provides Mandiri e-cash system. Tokobat will notify buyer if the medicine is packaged and he can take it on the pharmacy.
+In the future, Tokobat can use an image recognition system to translate the order in receipt to text for easier use.

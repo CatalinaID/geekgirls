@@ -3,7 +3,8 @@ modal-id: kuka
 title: Kuka
 image: kuka.png
 alt: kuka-logo
-project-date: April 2014
-client: 
+project-date: January 2016
+progress: mock up
+key-technologies: android
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+Kuka (Kupon untuk Mereka) is a web and mobile application for social crowdfunding which provides interesting coupon/discount for contributor. An initiator is a person or people who initiate a social crowdfunding. A contributor is a person who want to donate to the social project and will get a disocunt coupon from Kuka's merchants. Kuka's merchants will provide dicounts and coupons to Kuka and will get promotion and advertisement from Kuka. 

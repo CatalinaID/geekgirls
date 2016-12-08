@@ -17,16 +17,18 @@
                             <img src="{{ site.github.url }}/assets/img/hands-on/{{ post.image }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.content }}</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong>{{ post.project-date }}
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>Progress:
+                                    <strong>{{ post.progress }}
+                                    </strong>
+                                </li>
+                            </ul>
+                            <ul class="list-inline item-details">
+                                <li>Key Technologies:
+                                    <strong>{{ post.key-technologies }}
                                     </strong>
                                 </li>
                             </ul>
