@@ -33,4 +33,4 @@ collections:
   - portfolios
 
 # Default Background for Post
-default_bg: profile.png
+default_bg: default.png
