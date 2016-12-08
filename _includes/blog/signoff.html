@@ -4,10 +4,13 @@
                         
                             <img src="{{site.github.url}}/assets/img/mothers/{{ author.avatar }}" class="notepad-post-author-avatar" alt="{{ author.nickname }}'s photo">
                         
-                        
                             <span class="author-label">Author</span>
                             <h1><a href="{{ site.github.url }}/{{ author.nickname}}.html">{{ author.nickname}}</a></h1>
-                            <p>{{ author.description }}</p>
+                            <p>
+                            {% for desc in author.description  %}
+                            {{ desc }}
+                            {% endfor %}
+                            </p>
                     </section>
                 </div>
             </div>

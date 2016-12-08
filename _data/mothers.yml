@@ -3,25 +3,45 @@ icha:
   name: Choirunnisa Fatima
   image: icha.png
   avatar: icha-avatar.png
-  description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+  github: https://github.com/ichakid
+  linkedIn: https://www.linkedin.com/in/choirfatima
+  description: 
+    - Hello! My name is Choirunnisa Fatima. I love building software products, especially as backend developer. I also have a desire to work on android, devops, testing, and data mining. But frontend is not my thing.
+    - I am proudly still an informatics engineering student at Institut Teknologi Bandung, exchange student at University of Bremen, and student researcher at Jacobs University.
+    - I am still an adolescent, that's why my life is so confusing (no focuding field and 3 student statuses!). But yeah, currently I'm enjoying lovelife in Germany.
 
 hayyu:
   nickname: hayyu   
   name: Hayyu Luthfi Hanifah
   image: hayyu.png
   avatar: hayyu-avatar.png
-  description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+  github: https://github.com/hayyuelha
+  linkedIn: https://www.linkedin.com/in/hayyuhanifah
+  description: 
+    - Hi, my name is Hayyu' Luthfi Hanifah (yes, with an aphostrophe!). I love reading books and blogging. You can peek my posts and book reviews on tumblr and wordpress (just google my name!).
+    - I have graduated from Institut Teknologi Bandung on October 2016 as a Bachelor of Informatics Engineering. Currently, I'm working at <a href="https://www.traveloka.com">Traveloka</a> as marketing analyst.
+    - Yeah, I love data so much! There are still many things about data that I don't know, but that doesn't discourage me. Instead, it makes me wanting to learn and explore it more. 
 
 afik:
   nickname: afik
   name: Khoirunnisa Afifah
   image: afik.png
   avatar: afik-avatar.png
-  description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+  github: https://github.com/afik
+  linkedIn: https://www.linkedin.com/in/khoirunnisa-afifah-854456a2
+  description: 
+  - Hi! My name is Khoirunnisa Afifah. I am passionate about security in software engineering. I even wrote a paper about it and presented in a conference. If you are interested, you can find my paper on IEEE Xplore.
+  - I have graduated from Institut Teknologi Bandung as a Bachelor of Informatics Engineering on October 2016. Currently, I am working as a software engineer at <a href="https://www.xendit.co">Xendit</a>.
+  - Other than security, I love going to interesting places randomly. I also love collecting band-aids from all over the world!
 
 alifa:
   nickname: alifa
   name: Alifa Nurani Putri
   image: alifa.png
   avatar: alifa-avatar.png
-  description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+  github: https://github.com/alifanuraniputri
+  linkedIn: https://www.linkedin.com/in/alifanuraniputri
+  description: 
+  - Hey geeks! My name is Alifa Nurani Putri. I have already graduated as a Master and Bachelor of Informatics Engineering at Institut Teknologi Bandung. Currently, I am working as an android developer at <a href="https://www.tokopedia.com">Tokopedia</a>.
+  - I have some experiences in building android app, but I want to learn as much as I can to be a senior android developer. Other than that, I am also interested in security, as I wrote my master thesis about it. And my dream is to be a technology manager, that's why I need to work professionally in any project I've been working on.
+  - Lastly, I love coffee! I would be glad if you asked me about any kind of coffee.

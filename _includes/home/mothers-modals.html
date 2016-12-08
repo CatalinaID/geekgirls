@@ -15,18 +15,20 @@
                             <h2>{{ mother[0] }}</h2>
                             <hr class="star-primary">
                             <img src="{{ site.github.url }}/assets/img/mothers/{{ mother[1].image }}" class="img-responsive img-centered" alt="{{ mother[1].name }}">
-                            <p>{{ mother[1].description }}</p>
+                            {% for desc in mother[1].description  %}
+                            <p>{{ desc }}</p>
+                            {% endfor %}
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{  }}</a>
+                                <li>
+                                    <strong><a href="{{ site.github.url }}/{{ mother[1].nickname}}.html">Articles</a>
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ }}</a>
+                                <li>
+                                    <strong><a href="{{ mother[1].linkedIn }}">LinkedIn</a>
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{  }}</a>
+                                <li>
+                                    <strong><a href="{{ mother[1].github }}">GitHub</a>
                                     </strong>
                                 </li>
                             </ul>

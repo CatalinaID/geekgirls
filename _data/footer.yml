@@ -1,0 +1,24 @@
+# Footer settings
+footer:
+  copyright: Catalina ID
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: http://www.facebook.com/catalinageekgirl
+  - title: github
+    url: http://github.com/CatalinaID
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Bandung, Indonesia
+
+# Credits content
+credits: 'Crafted with love using Jekyll themes: <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a> & <a href="https://github.com/hmfaysal/Notepad">Notepad</a>. Built by Jekyll on GitHub Pages.'
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title

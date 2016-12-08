@@ -4,17 +4,17 @@
             <div class="container">
                 <div class="row-footer">
                     <div class="footer-col col-md-4">
-                        <h3 class="footer-title">{{ site.footer.location }}</h3>
+                        <h3 class="footer-title">{{ site.data.footer.footer.location }}</h3>
                         <p>
-                            {% for adress in site.address %}
+                            {% for adress in site.data.footer.address %}
                                 {{ adress.line }} <br>
 		                    {% endfor %}
                         </p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3 class="footer-title">{{ site.footer.social }}</h3>
+                        <h3 class="footer-title">{{ site.data.footer.footer.social }}</h3>
                         <ul class="list-inline">
-                            {% for network in site.social %}
+                            {% for network in site.data.footer.social %}
                             <li>
                                 <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
                             </li>
@@ -22,8 +22,8 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3 class="footer-title">{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
+                        <h3 class="footer-title">{{ site.data.footer.footer.credits }}</h3>
+                        <p>{{ site.data.footer.credits }}</p>
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
             <div class="container">
                 <div class="row-footer">
                     <div class="col-lg-12">
-                        Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+                        Copyright &copy; {{ site.data.footer.footer.copyright }} 20{{ site.time | date: '%y' }}
                     </div>
                 </div>
             </div>
