@@ -7,7 +7,7 @@ Catalina Geek Blog
 ## How to post
  - Place an image in `/assets/img/posts/`
  - Create posts using the follow as an example, and put it in directory `/_posts/{{category}}`:
- - Don't forget to use this convention as file name `yyyy-mm-dd-{title separated by dash}`
+ - Don't forget to use this convention as file name `yyyy-mm-dd-{title separated by dash}.md`
 
 ```txt
 ---
@@ -30,7 +30,6 @@ imagefeature: cover6.jpg
  - Run command `bundle exec jekyll serve`
  - Go to `http://127.0.0.1:4000/` in your browser
 
- ## How to work with draft
-  - Create post and put in directory `/_drafts`. File name convention is `{title separated by dash}`
-  - Local preview by run command `bundle exec jekyll serve --drafts`
- 
+## How to work with draft
+ - Create post and put in directory `/_drafts`. File name convention is `{title separated by dash}.md`
+ - Local preview by run command `bundle exec jekyll serve --drafts`
