@@ -53,11 +53,9 @@ This is a startup special benefit. Some startups now offer stock benefit for the
 
 Yeah! There are 9 things to be noted in benefit matter when we choose to join any startups. Still, there are other benefits can’t be listed here e.g. Training participation, Community based course (non-working session), etc. Oh ya, one more, I think how big a startup will treat you different opportunity. Working on a small/new startup will give you greater chances to be lead and influential people, then working on a big startup more give you experiences on a large scale startup environment and it can also has a seniority and career path. 
 
-References
+### Referensi
 
 * https://www.cermati.com/artikel/6-hal-yang-sering-ditanyakan-soal-bpjs-ketenagakerjaan
-
 * http://www.duniakaryawan.com/hak-cuti-karyawan/ 
-
 * http://spicyip.com/2016/06/backing-up-the-start-up-benefits-of-a-sound-ipr-strategy.html
 
