@@ -1,8 +1,11 @@
+catalina:
+  facebook: https://www.facebook.com/catalinageekgirl
 icha:
   nickname: icha
   name: Choirunnisa Fatima
   image: icha.png
   avatar: icha-avatar.png
+  facebook: https://www.facebook.com/choirfatima
   github: https://github.com/ichakid
   linkedIn: https://www.linkedin.com/in/choirfatima
   description: 
@@ -15,6 +18,7 @@ hayyu:
   name: Hayyu Luthfi Hanifah
   image: hayyu.png
   avatar: hayyu-avatar.png
+  facebook: https://www.facebook.com/plloopy
   github: https://github.com/hayyuelha
   linkedIn: https://www.linkedin.com/in/hayyuhanifah
   description: 
@@ -27,6 +31,7 @@ afik:
   name: Khoirunnisa Afifah
   image: afik.png
   avatar: afik-avatar.png
+  facebook: https://www.facebook.com/khoirunnisa.afik
   github: https://github.com/afik
   linkedIn: https://www.linkedin.com/in/khoirunnisa-afifah-854456a2
   description: 
@@ -39,6 +44,7 @@ alifa:
   name: Alifa Nurani Putri
   image: alifa.png
   avatar: alifa-avatar.png
+  facebook: https://www.facebook.com/alifanuraniputri
   github: https://github.com/alifanuraniputri
   linkedIn: https://www.linkedin.com/in/alifanuraniputri
   description: 

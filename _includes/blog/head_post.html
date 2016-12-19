@@ -1,6 +1,8 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+{% assign author = site.data.mothers[page.author] %}
+{% assign catalina = site.data.mothers[catalina] %}
 <!-- Open Graph -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{site.title}} | {{page.title}}">
@@ -9,10 +11,12 @@
 {% if page.imagefeature %}<meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.imagefeature }}">{% else %}<meta property="og:image" content="{{ site.github.url }}/assets/img/{{ site.default_bg }}">{% endif %}
 <meta property="og:image:width" content="800" />
 <meta property="og:image:height" content="527" />
+<meta property='article:author' content="{{ author.facebook }}"/>
+<meta property='article:publisher' content="{{ catalina.facebook }}"/>
 
 <title>{{site.title}} | {{page.title}}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-{% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
+<meta name="author" content="{{ author.name }}">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
 <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
