@@ -19,7 +19,7 @@ First to note is about employee status. In general, there are three types of emp
 
 ### Salary
 
-Startups generally have different approach on offering. They can offer some same-level (i.e. fresh graduate) employees on the same position with different salary. It mostly defined from the result of interview and screening process. I think experiences play big portion on defining it. Beside that, Start-up companies likely ask the candidate first, how much is the expected salary. I think one of the goal is to measure how precise we define our skills and experiences, then also how much we can contribute to the company. About how the salaries delivered is another matter. As far I ever know, most Indonesian startup come with a mainstream one-salary per month, although there is startup I ever know gives the salary every two-weeks like startups abroad. 
+Startups generally have different approach on offering. They can offer some same-level (e.g. fresh graduate) employees on the same position with different salary. It mostly defined from the result of interview and screening process. I think experiences play big portion on defining it. Beside that, Start-up companies likely ask the candidate first, how much is the expected salary. I think one of the goal is to measure how precise we define our skills and experiences, then also how much we can contribute to the company. About how the salaries delivered is another matter. As far I ever know, most Indonesian startup come with a mainstream one-salary per month, although there is startup I ever know gives the salary every two-weeks like startups abroad. 
 
 ### THR and Bonus
 
@@ -27,7 +27,7 @@ Other to note is about some ++ to our salary. I know from an HR friend that in I
 
 ### Income Tax, BPJS Health Care Security, and BPJS National Social Security
 
-There are such things to note if you work in Indonesia. An income tax is a must and there will be related with your NPWP. However just be happy, that most startups I ever heard covered the tax all from company. It will be calculated by your basic salary. Other thing is BPJS. Fyi, BPJS is not only about health insurance. There are two types of BPJS: BPJS health care security and BPJS social security, many startups already cover them too. You can googling to get more info, but both of them are mandatory for all worker in Indonesia. Oh ya, you have to know that one of BPJS national social security program called JHT is like a savings deposit that you can get it back on the age of 55. So, make sure your company or you aware with these three mandatory deductions. 
+There are such things to note if you work in Indonesia. An income tax is a must and there will be related with your NPWP. However just be happy, that most startups I ever heard covered the tax all from company. It will be calculated by your basic salary. Other thing is BPJS. Fyi, BPJS is not only about health insurance. There are two types of BPJS: BPJS health care security and BPJS national social security, many startups already cover them too. You can googling to get more info, but both of them are mandatory for all worker in Indonesia. Oh ya, you have to know that one of BPJS national social security program called JHT is like a savings deposit that you can get it back on the age of 55. So, make sure your company or you aware with these three mandatory deductions. 
 
 ### Health Insurance
 
@@ -51,10 +51,10 @@ This is a startup special benefit. Some startups now offer stock benefit for the
 
 ---
 
-Conclusion
 Yeah! There are 9 things to be noted in benefit matter when we choose to join any startups. Still, there are other benefits can’t be listed here e.g. Training participation, Community based course (non-working session), etc. Oh ya, one more, I think how big a startup will treat you different opportunity. Working on a small/new startup will give you greater chances to be lead and influential people, then working on a big startup more give you experiences on a large scale startup environment and it can also has a seniority and career path. 
 
 References
 * https://www.cermati.com/artikel/6-hal-yang-sering-ditanyakan-soal-bpjs-ketenagakerjaan
 * http://www.duniakaryawan.com/hak-cuti-karyawan/ 
 * http://spicyip.com/2016/06/backing-up-the-start-up-benefits-of-a-sound-ipr-strategy.html
+
