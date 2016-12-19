@@ -11,7 +11,7 @@ share: true
 
 Hello! First, I’d like to say that it’s very happy writing this as (the new) catalina.id first post. One other Catalina’s mother ask me to write about what to be watched if we join our first IT startup company. I don’t have such experiences about benefit. Right now I am just on my 4th month working on IT startup (find it on my bio! haha). However I have a big interest on benefit matter. I like to know how each company attracts the prospectivce employees. 
 
->Now, I will list some points to be reviewed.
+Now, I will list some points to be reviewed.
 
 ### Employee Status
 
@@ -39,7 +39,7 @@ There are many startups now provide meals to the employees. Some give breakfast,
 
 ### Work Time 
 
-### First we talk about weekly working hours, for a full-time position, normally it is on 40 hours, though some company use less or more than it. Then, to be watched is job schedule each day. Is it a regular (9-6 or 8-5 with 1 hour break) or a flexible 8 hours each day, or even a flexible 40 hours each week or maybe shifting? However, for a flexible one, just make sure the total hours are same with the agreement. Because I ever heard story about a “flexible” working hours that comes with a high work loads then come into overtimes. You can ask your company how they handle overtime case. As far I know, there will be compensation or dispensation.
+First we talk about weekly working hours, for a full-time position, normally it is on 40 hours, though some company use less or more than it. Then, to be watched is job schedule each day. Is it a regular (9-6 or 8-5 with 1 hour break) or a flexible 8 hours each day, or even a flexible 40 hours each week or maybe shifting? However, for a flexible one, just make sure the total hours are same with the agreement. Because I ever heard story about a “flexible” working hours that comes with a high work loads then come into overtimes. You can ask your company how they handle overtime case. As far I know, there will be compensation or dispensation.
 
 ### Leave
 
@@ -48,3 +48,13 @@ From one of the reference below I know that a company must gives a personal leav
 ### Stock
 
 This is a startup special benefit. Some startups now offer stock benefit for the employees. Usually it’s given after such period of work or given for special rising employees. So it may be a nice benefit for you when your startup comes to big valuations or even profitable state.
+
+---
+
+Conclusion
+Yeah! There are 9 things to be noted in benefit matter when we choose to join any startups. Still, there are other benefits can’t be listed here e.g. Training participation, Community based course (non-working session), etc. Oh ya, one more, I think how big a startup will treat you different opportunity. Working on a small/new startup will give you greater chances to be lead and influential people, then working on a big startup more give you experiences on a large scale startup environment and it can also has a seniority and career path. 
+
+References
+* https://www.cermati.com/artikel/6-hal-yang-sering-ditanyakan-soal-bpjs-ketenagakerjaan
+* http://www.duniakaryawan.com/hak-cuti-karyawan/ 
+* http://spicyip.com/2016/06/backing-up-the-start-up-benefits-of-a-sound-ipr-strategy.html
