@@ -5,7 +5,7 @@ author: alifa
 description: "It will be a nice experience to work on IT Startup, but what things to be noted?"
 category: life
 tags: [startup, work]
-imagefeature: cover-alifa1.png
+imagefeature: image4406.png
 share: true
 ---
 
