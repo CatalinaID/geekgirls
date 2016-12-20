@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Work at IT Startup Company in Indonesia: Things to Note"
+title: "First Experience at IT Startup Company in Indonesia: Things to Note"
 author: alifa
 description: "It will be a nice experience to work on IT Startup, but what things to be noted?"
 category: life
