@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ugrading Macbook Pro Mid 2012: RAM and SSD"
+title: "Upgrading Macbook Pro Mid 2012: RAM and SSD"
 author: icha
 description: "She upgraded her macbook pro mid 2012. "
 modified: 2016-12-25
