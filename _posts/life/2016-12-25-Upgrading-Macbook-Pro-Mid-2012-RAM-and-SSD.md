@@ -6,7 +6,7 @@ description: "She upgraded her macbook pro mid 2012. "
 modified: 2016-12-25
 category: life
 tags: [macbook pro, upgrade, geek]
-imagefeature: DSC01064.JPG
+imagefeature: DSC01064.png
 ---
 My Macbook Pro mid 2012 comes with 4 GB memory and 500 GB hard drive. Somehow after using it for few months, I found that this macbook ran very slow and the memory was always full. I’m not sure, but other says that OSX memory management is poor. Beside that, I have already saved some money up, so anyway, I decided to upgrade my memory to 16 GB and hard drive to solid state drive.
 
