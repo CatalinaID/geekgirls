@@ -7,6 +7,7 @@ category: life
 tags: [startup, work]
 imagefeature: image4406.png
 share: true
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1466851353342384
 ---
 
 Hello! First, I’d like to say that it’s very happy writing this as (the new) catalina.id first post. One other Catalina’s mother ask me to write about what to be watched if we join our first IT startup company. I don’t have such experiences about benefit. Right now I am just on my 4th month working on IT startup (find it on my bio! haha). However I have a big interest on benefit matter. I like to know how each company attracts the prospectivce employees. 

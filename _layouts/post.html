@@ -3,6 +3,7 @@
 <head>
 {% include blog/head_post.html %}
 {% assign author = site.data.mothers[page.author] %}
+{% include social/fb-script.html %}
 </head>
 <body class="post-template" itemscope itemtype="http://schema.org/WebPage">  
     {% include home/nav.html %}
@@ -39,19 +40,22 @@
         {% endif %}
                 <div>
                     {{ content }}
-                    <br>
-                    <br>
-                    {% include  fb-like.html %}
                 </div>
-                <!-- <div>
-                    {% include  fb-like.html %}    
-                </div> -->
-                
             </article>
             <div class="cf"></div>
+            <section class="notepad-post-share">
+                <div class="row text-center">
+                    <h3>Catalina on Facebook {% include social/fb-like.html %}</h3>
+                </div>
+                {% if page.fb-url %}
+                <div class="row text-center">
+                    {% include social/fb-post.html %}
+                </div>
+                {% endif %}
+            </section>
+            <div class="cf"></div>
         
-        {% include blog/signoff.html %} 
-        
+        {% include blog/signoff.html %}
             <div class="cf"></div>
     {% include home/footer.html %} 
 </main>    

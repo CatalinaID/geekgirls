@@ -7,6 +7,7 @@ modified: 2016-12-25
 category: life
 tags: [macbook pro, upgrade, geek]
 imagefeature: DSC01064.png
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1474722909221895
 ---
 My Macbook Pro mid 2012 comes with 4 GB memory and 500 GB hard drive. Somehow after using it for few months, I found that this macbook ran very slow and the memory was always full. I’m not sure, but other says that OSX memory management is poor. Beside that, I have already saved some money up, so anyway, I decided to upgrade my memory to 16 GB and hard drive to solid state drive.
 
@@ -99,3 +100,4 @@ I will not guide you through the steps to change the drive, but here is the tuto
 -----
 
 This is my experience upgrading macbook pro by myself. In total, I spent about `EUR 218.37` or around `Rp 3 millions`. Well, it costed much money, but I think it was worth it rather than saving money up more until `EUR 2000` to buy new macbook pro 2015 with 16 GB memory and 512 GB drive. I would need a long long time to gather that amount of money. Though my macbook pro i5 processor is outdated ([not that much outdated](http://ark.intel.com/compare/84985,67355)), I’m happy enough to find my macbook pro is now flawless, yeay!
+
