@@ -7,7 +7,7 @@ modified: 2017-1-1
 category: software
 tags: [code style, linter, best-practice-software-engineering]
 imagefeature: code-style.png
-fb-url: https://www.facebook.com/catalinageekgirl
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1481959778498208
 ---
 Hi, Happy new year geeks! 
 
