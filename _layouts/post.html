@@ -47,11 +47,16 @@
                 <div class="row text-center">
                     <h3>Catalina on Facebook {% include social/fb-like.html %}</h3>
                 </div>
-                {% if page.fb-url %}
-                <div class="row text-center">
-                    {% include social/fb-post.html %}
+                <br/>
+                <div class="row">
+                    <div class="col-lg-6">
+                        {% include social/fb-post.html %}
+                    </div>
+                    <div class="fb-comments col-lg-6"
+                         data-href="{{site.github.url}}{{page.url}}"
+                         data-numposts="4">
+                    </div>
                 </div>
-                {% endif %}
             </section>
             <div class="cf"></div>
         
