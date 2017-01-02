@@ -118,7 +118,7 @@ iframe {
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%); }
     .post-template .notepad-post-title a {
-      color: black; }
+      color: #{{ site.color.primary }}; }
       .post-template .notepad-post-title a:hover {
         color: #{{ site.color.secondary }}; }
     .post-template .notepad-post-title h1 {
