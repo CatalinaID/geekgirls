@@ -31,7 +31,7 @@ To distinguish between data analyst and data scientist, it can be said that data
 
 <figure>
     <img width="853" src="{{ site.github.url }}/assets/img/posts/analyst-vs-scientist.jpg" alt="Similarities and differences between data analyst and data scientist">
-    <figcaption>Similarities and differences between data analyst and data scientist ([Source](https://www.import.io/post/data-scientists-vs-data-analysts-why-the-distinction-matters/))</figcaption>
+    <figcaption>Similarities and differences between data analyst and data scientist (<a href="https://www.import.io/post/data-scientists-vs-data-analysts-why-the-distinction-matters/">Source</a>)</figcaption>
 </figure>
 
 ### Data Engineer
