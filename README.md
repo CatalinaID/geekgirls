@@ -19,6 +19,7 @@ modified: 2013-05-31
 category: data
 tags: [sample post]
 imagefeature: cover6.jpg
+thumbnail: cover5.jpg
 ---
 ```
  - Commit and push it to github

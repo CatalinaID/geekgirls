@@ -5,9 +5,11 @@ author: hayyu
 description: "There are many roles in data field. Here is a brief explanation for some of the roles."
 modified: 2017-1-8
 category: data
+thumbnail: image4198.png
 tags: [data science, data engineer, data analyst]
 thumbnail: gambar.jpg
-fb-url: https://www.facebook.com/catalinageekgirl/posts/1481959778498208
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1488572204503632
+
 ---
 In this digital era, every minute we produce data, e.g tweeting, updating Facebook status, sharing news or article, or even just clicking the like button on the social media. No wonder if the volume of digital data is so big and keep on growing at an exponential rate ([source: Business Insider](http://www.businessinsider.co.id/mind-blowing-growth-and-power-of-big-data-2015-6/?r=US&IR=T#cVH20AoPhJoVAiGO.97)). 
 
