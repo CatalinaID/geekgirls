@@ -34,3 +34,6 @@ collections:
 
 # Default Background for Post
 default_bg: default.png
+
+# Google Services
+google_analytics: UA-90324571-1

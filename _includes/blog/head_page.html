@@ -86,3 +86,6 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
 <meta name="theme-color" content="#{{site.color.secondary}}">
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include tracker/analytics.html %}
+{% endif %}
