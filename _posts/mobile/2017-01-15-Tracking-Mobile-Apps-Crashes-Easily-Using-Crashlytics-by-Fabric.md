@@ -9,27 +9,29 @@ tags: [mobile apps, android, ios, crash, analytics]
 
 ---
 
+Have you ever published a mobile app? Or have you ever developed it? Or if not, I am sure at least you ever tried Android or iOS apps. If yes, you must be familiar with crashes. On Android app (sorry I’m not an iPhone user :p, I dont have example on it), crash or also known as force close is seen by user with a dialog told like “Unfortunately, [App Name] has stopped” or in Indonesia is like “Sayangnya, [Nama Applikasi] Telah Terhenti”. 
+
 <div class="row">
-  <div class="large-4 columns">
+  <div class="large-5 columns">
     <figure>
-      <img width="400" src="{{ site.github.url }}/assets/img/posts/crash-example.png" alt="Fabric on Android Studio">
-      <figcaption>Easily add-on Fabric Kits on Your IDE</figcaption>
+      <img width="425" src="{{ site.github.url }}/assets/img/posts/crash-example.png" alt="Fabric on Android Studio">
+      <figcaption>Crash on Android</figcaption>
     </figure>
   </div>
-  <div class="large-8 columns">
-    Have you ever published a mobile app? Or have you ever developed it? Or if not, I am sure at least you ever tried Android or iOS apps. If yes, you must be familiar with crashes. On Android app (sorry I’m not an iPhone user :p, I dont have example on it), crash or also known as force close is seen by user with a dialog told like “Unfortunately, [App Name] has stopped” or in Indonesia is like “Sayangnya, [Nama Applikasi] Telah Terhenti”. 
+  <div class="large-7 columns">
+
+    -----
+    ### Why should we care to crashes?
+    -----
+    Those problems are serious things because mostly it trigger users to give bad rating or review. So how to handle it? If you’re in development, it’s simple. On Android, you only needs to look at logcat and there will be stacktraces related to the crash, like on [to do add image]. But, be careful, if the dialog appears, don’t press OK (to close) first, just let it appears while you checking on the logcat. 
+
+    -----
+    ### Then, how to handle crashes on production? How we know the cause of crashes on every user? 
+    -----
+    Did you think users want to send feedback report if the apps crash happened? I thinks is a big no, or just a little user care about it. But don’t worry, some people there already made it. Till now it’s free. Free for your app even it used by millions users. 
+
   </div>
 </div>
-
-## Why should we care to crashes?
------
-
-Those problems are serious things because mostly it trigger users to give bad rating or review. So how to handle it? If you’re in development, it’s simple. On Android, you only needs to look at logcat and there will be stacktraces related to the crash, like on [to do add image]. But, be careful, if the dialog appears, don’t press OK (to close) first, just let it appears while you checking on the logcat. 
-
-## Then, how to handle crashes on production? How we know the cause of crashes on every user? 
------
-
-Did you think users want to send feedback report if the apps crash happened? I thinks is a big no, or just a little user care about it. But don’t worry, some people there already made it. Till now it’s free. Free for your app even it used by millions users. 
 
 ## Introducing Crashlytics by Fabric by Twitter
 -----
@@ -41,7 +43,7 @@ They said: “Crashlytics is a powerful and lightweight crash reporting system w
 Spare some minutes to follow this set-up on yout native [Android](https://fabric.io/kits/android/crashlytics/install) or [iOS](https://fabric.io/kits/ios/crashlytics/install) projects. If you uses common IDE i.e. [Android Studio](https://fabric.io/downloads/android-studio) or [XCode](https://fabric.io/downloads/xcode). On Android, we will see Fabric’s plugin on the right side (by default) on your Android Studio like below. This embedded fabric
 
 <figure>
-  <img width="853" src="{{ site.github.url }}/assets/img/posts/android-studio-fabric.png" alt="Fabric on Android Studio">
+  <img width="800" src="{{ site.github.url }}/assets/img/posts/android-studio-fabric.png" alt="Fabric on Android Studio">
   <figcaption>Easily add-on Fabric Kits on Your IDE</figcaption>
 </figure>
 
@@ -50,7 +52,7 @@ Spare some minutes to follow this set-up on yout native [Android](https://fabric
 Fabric dashboard, as you seen, is a summary of every crash event on your selected app. Fabric will sort it by number-of-crashes, then you can filter it by users’ device, app build version, times, and status as you can close any crash if it has been fixed. 
  
 <figure>
-	<img width="853" src="{{ site.github.url }}/assets/img/posts/fabric-dashboard.png" alt="Crashlytics Dashboard">
+	<img width="800" src="{{ site.github.url }}/assets/img/posts/fabric-dashboard.png" alt="Crashlytics Dashboard">
 	<figcaption>Crashlytics Dashboard on One My On-Development App</figcaption>
 </figure>
 
@@ -59,7 +61,7 @@ Fabric dashboard, as you seen, is a summary of every crash event on your selecte
 Choose any crash on your dashboard. Take a look on the crash detail page. There, you will see the full stack traces on all the threads. You can download the raw and place it back to your IDE. You even can create comments on it, then after fix the crash, you can close it.
 
 <figure>
-  <img width="853" src="{{ site.github.url }}/assets/img/posts/fabric-stacktraces.png" alt="Crashlytics Stacktraces">
+  <img width="800" src="{{ site.github.url }}/assets/img/posts/fabric-stacktraces.png" alt="Crashlytics Stacktraces">
   <figcaption>Full Stacktraces to make your fix easier</figcaption>
 </figure>
 
