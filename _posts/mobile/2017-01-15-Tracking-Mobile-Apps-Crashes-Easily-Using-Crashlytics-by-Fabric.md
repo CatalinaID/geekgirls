@@ -5,6 +5,7 @@ author: alifa
 description: "Just sleep geeks, Crashlytics will alerts you on every new crash "
 modified: 2017-01-15
 category: mobile
+thumbnail: gambar.jpg
 tags: [mobile apps, android, ios, crash, analytics]
 
 ---
