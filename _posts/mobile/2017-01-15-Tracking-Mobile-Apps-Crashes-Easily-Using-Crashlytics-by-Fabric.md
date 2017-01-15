@@ -84,6 +84,6 @@ Choose any crash on your dashboard. Take a look on the crash detail page. There,
 ## Finally
 -----
 
-Actually there are some others functionality that Crashlytics could help your mobile app team. Moreover, there are also other kits offered by Fabric besides Crashlytics. Explore it to get more valuable-free tools to assists your mobile apps project. Fyi, I really appriciate Crashlytics, and have no idea how they give it free for us. So try it if you haven’t geeks !
+Actually there are some other functionalities that Crashlytics could help your mobile app team. Moreover, there are also other kits offered by Fabric beside Crashlytics. Explore it to get more valuable-free tools to assists your mobile apps project. Fyi, I really appriciate Crashlytics, and have no idea how they give it free for us. So try it if you haven’t geeks !
 
 
