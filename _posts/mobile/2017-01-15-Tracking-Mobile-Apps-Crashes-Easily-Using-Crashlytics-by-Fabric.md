@@ -25,12 +25,12 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
       <br/>
       <br/>
 
-      <strong><span style="color:gray; font-size: 200%; line-height: 1; ">Why should we care to crashes?</span></strong>
+      <span style="font-size: 200%; line-height: 1.5; ">Why should we care to crashes?</span>
 
       <br/>
       <br/>
 
-      <span style="font-size: 120%; line-height: 0.7; "> Those problems are serious things because mostly it trigger users to give bad rating or review. So how to handle it? If you’re in development, it’s simple. On Android, you only needs to look at logcat and there will be stacktraces related to the crash, like on [to do add image]. But, be careful, if the dialog appears, don’t press OK (to close) first, just let it appears while you checking on the logcat. </span>
+      <span style="font-size: 120%; line-height: 1.2; "> Those problems are serious things because mostly it trigger users to give bad rating or review. So how to handle it? If you’re in development, it’s simple. On Android, you only needs to look at logcat and there will be stacktraces related to the crash, like on [to do add image]. But, be careful, if the dialog appears, don’t press OK (to close) first, just let it appears while you checking on the logcat. </span>
 
     </div>
     <div class="row">
@@ -38,12 +38,12 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
       <br/>
       <br/>
 
-      <strong><span style="color:gray; font-size: 200%; ">Then, how to handle crashes on production? How we know the cause of crashes on every user?</span></strong>
+      <span style="font-size: 200%; line-height: 1.5;">Then, how to handle crashes on production? How we know the cause of crashes on every user?</span>
 
       <br/>
       <br/>
 
-      <span style="font-size: 120%; line-height: 0.7; "> Did you think users want to send feedback report if the apps crash happened? I thinks is a big no, or just a little user care about it. But don’t worry, some people there already made it. Till now it’s free. Free for your app even it used by millions users. </span>
+      <span style="font-size: 120%; line-height: 1.2; "> Did you think users want to send feedback report if the apps crash happened? I thinks is a big no, or just a little user care about it. But don’t worry, some people there already made it. Till now it’s free. Free for your app even it used by millions users. </span>
 
     </div>
   </div>
