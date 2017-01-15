@@ -48,7 +48,7 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
   </div>
 </div>
 
-</br>
+<br/>
 
 ## Introducing Crashlytics by Fabric by Twitter
 -----
