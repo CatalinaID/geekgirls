@@ -5,7 +5,7 @@ author: alifa
 description: "Just sleep geeks, Crashlytics will alerts you on every new crash "
 modified: 2017-01-15
 category: mobile
-thumbnail: fabric-dashboard.png
+thumbnail: fabric-dashboard-copy.png
 tags: [mobile apps, android, ios, crash, analytics]
 
 ---
