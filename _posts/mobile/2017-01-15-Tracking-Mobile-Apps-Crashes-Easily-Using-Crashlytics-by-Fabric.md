@@ -29,7 +29,7 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
       <br/>
       <br/>
 
-      <span style="font-size: 15px; line-height: 1.2; "> Those are serious problem because mostly crashes trigger users to give bad rating or review. So how to handle it? If you’re in development, it’s simple. On Android, you only needs to look at logcat and there will be stacktraces related to the crash. However be careful, if the dialog appears, don’t press OK (to close) first, just let it appears while you checking on the logcat. </span>
+      <span style="font-size: 18px; line-height: 1.5; "> Those are serious problem because mostly crashes trigger users to give bad rating or review. So how to handle it? If you’re in development, it’s simple. On Android, you only needs to look at logcat and there will be stacktraces related to the crash. However be careful, if the dialog appears, don’t press OK (to close) first, just let it appears while you checking on the logcat. </span>
 
     </div>
     <div class="row">
@@ -42,7 +42,7 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
       <br/>
       <br/>
 
-      <span style="font-size: 15px; line-height: 1.2; "> Did you think users want to send feedback report if the apps crash happened? I think there is a big no, or just a little user care about it. But don’t worry, some people there already made it. Till now it’s free. Free for your app even it used by millions users. </span>
+      <span style="font-size: 18px; line-height: 1.5; "> Did you think users want to send feedback report if the apps crash happened? I think there is a big no, or just a little user care about it. But don’t worry, some people there already made it. Till now it’s free. Free for your app even it used by millions users. </span>
 
     </div>
   </div>
