@@ -20,16 +20,20 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
   </div>
   <div class="large-7 columns">
 
-    -----
-    ### Why should we care to crashes?
-    -----
-    Those problems are serious things because mostly it trigger users to give bad rating or review. So how to handle it? If you’re in development, it’s simple. On Android, you only needs to look at logcat and there will be stacktraces related to the crash, like on [to do add image]. But, be careful, if the dialog appears, don’t press OK (to close) first, just let it appears while you checking on the logcat. 
+    <div class="row">
 
-    -----
-    ### Then, how to handle crashes on production? How we know the cause of crashes on every user? 
-    -----
-    Did you think users want to send feedback report if the apps crash happened? I thinks is a big no, or just a little user care about it. But don’t worry, some people there already made it. Till now it’s free. Free for your app even it used by millions users. 
+      <strong><span style="font-size: 200%; ">Why should we care to crashes?</span></strong>
 
+      Those problems are serious things because mostly it trigger users to give bad rating or review. So how to handle it? If you’re in development, it’s simple. On Android, you only needs to look at logcat and there will be stacktraces related to the crash, like on [to do add image]. But, be careful, if the dialog appears, don’t press OK (to close) first, just let it appears while you checking on the logcat. 
+
+    </div>
+    <div class="row">
+
+      <strong><span style="font-size: 200%; ">Then, how to handle crashes on production? How we know the cause of crashes on every user?</span></strong>
+
+      Did you think users want to send feedback report if the apps crash happened? I thinks is a big no, or just a little user care about it. But don’t worry, some people there already made it. Till now it’s free. Free for your app even it used by millions users. 
+
+    </div>
   </div>
 </div>
 
