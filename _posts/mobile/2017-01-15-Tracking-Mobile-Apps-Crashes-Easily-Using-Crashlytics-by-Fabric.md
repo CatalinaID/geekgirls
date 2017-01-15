@@ -5,7 +5,7 @@ author: alifa
 description: "Just sleep geeks, Crashlytics will alerts you on every new crash "
 modified: 2017-01-15
 category: mobile
-thumbnail: fabric-dashboard-copy.png
+imagefeature: fabric-dashboard.png
 tags: [mobile apps, android, ios, crash, analytics]
 
 ---
@@ -70,7 +70,7 @@ Spare some minutes to follow this set-up link on your native [Android](https://f
 Fabric dashboard, as you seen, is a summary of every crash event on your selected app. Fabric will sort it by number-of-crashes as priority, then you can filter it by users’ device, app build version, times, and status as you can close any crash if it has been fixed. 
  
 <figure>
-	<img width="800" src="{{ site.github.url }}/assets/img/posts/fabric-dashboard-copy.png" alt="Crashlytics Dashboard">
+	<img width="800" src="{{ site.github.url }}/assets/img/posts/fabric-dashboard.png" alt="Crashlytics Dashboard">
 	<figcaption>Crashlytics Dashboard on One My On-Development App</figcaption>
 </figure>
 
