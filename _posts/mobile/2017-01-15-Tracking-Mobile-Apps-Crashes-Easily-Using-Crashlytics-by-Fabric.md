@@ -7,7 +7,7 @@ modified: 2017-01-15
 category: mobile
 thumbnail: fabric-dashboard-copy.png
 tags: [mobile apps, android, ios, crash, analytics]
-
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1494997670527752
 ---
 
 Have you ever published a mobile app? Or have you ever developed it? Or if not, I am sure at least you ever tried Android or iOS apps. If yes, you must be familiar with crashes. On Android app (sorry I’m not an iPhone user :p, I dont have example on it), crash or also known as force close is seen by user with a dialog told like “Unfortunately, [App Name] has stopped” or in Indonesia is like “Sayangnya, [Nama Aplikasi] telah terhenti”. 
