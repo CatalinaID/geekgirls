@@ -14,7 +14,7 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
 <div class="row">
   <div class="large-4 columns">
     <figure>
-      <img width="375" src="{{ site.github.url }}/assets/img/posts/crash-example.png" alt="Fabric on Android Studio">
+      <img width="425" src="{{ site.github.url }}/assets/img/posts/crash-example.png" alt="Fabric on Android Studio">
       <figcaption>Crash on Android</figcaption>
     </figure>
   </div>
