@@ -24,7 +24,7 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
 
       <br/>
 
-      <strong><span style="font-size: 30px; line-height: 1; ">Why should we care to crashes?</span> </strong>
+      <strong><span style="font-size: 25px; line-height: 1; ">Why should we care to crashes?</span> </strong>
 
       <br/>
       <br/>
@@ -37,7 +37,7 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
       <br/>
       <br/>
 
-      <strong> <span style="font-size: 30px; line-height: 1;">Then, how to handle crashes on production? How we know the cause of crashes on every user session?</span> </strong>
+      <strong> <span style="font-size: 25px; line-height: 1;">Then, how to handle crashes on production? How we know the cause of crashes on every user session?</span> </strong>
 
       <br/>
       <br/>
@@ -47,6 +47,8 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
     </div>
   </div>
 </div>
+
+</br>
 
 ## Introducing Crashlytics by Fabric by Twitter
 -----
