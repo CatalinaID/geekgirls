@@ -58,7 +58,7 @@ They said: “Crashlytics is a powerful and lightweight crash reporting system w
 
 ### 1. Installation
 
-Spare some minutes to follow this set-up link on your native [Android](https://fabric.io/kits/android/crashlytics/install) or [iOS](https://fabric.io/kits/ios/crashlytics/install) projects. If you uses common IDE i.e. [Android Studio](https://fabric.io/downloads/android-studio) or [XCode](https://fabric.io/downloads/xcode). On Android, we will see Fabric’s plugin on the right side (by default) on your Android Studio like below. This embedded fabric kits make you easier to use them.
+Spare some minutes to follow this set-up link on your native [Android](https://fabric.io/kits/android/crashlytics/install) or [iOS](https://fabric.io/kits/ios/crashlytics/install) projects. If you uses common IDE i.e. [Android Studio](https://fabric.io/downloads/android-studio) or [XCode](https://fabric.io/downloads/xcode). On Android, you will see Fabric’s plugin on the right side (by default) on your Android Studio like below. This embedded fabric kits make you easier to use them.
 
 <figure>
   <img width="800" src="{{ site.github.url }}/assets/img/posts/android-studio-fabric.png" alt="Fabric on Android Studio">
@@ -67,7 +67,7 @@ Spare some minutes to follow this set-up link on your native [Android](https://f
 
 ### 2. Dashboard
 
-Fabric dashboard, as you seen, is a summary of every crash event on your selected app. Fabric will sort it by number-of-crashes as priority, then you can filter it by users’ device, app build version, times, and status as you can close any crash if it has been fixed. 
+Fabric dashboard, as you seen, is a summary of every crash event on your selected app. They will sort it by number-of-crashes as priority, then you can filter it by users’ device, app build version, times, and status as you can close any crash if it has been fixed. 
  
 <figure>
 	<img width="800" src="{{ site.github.url }}/assets/img/posts/fabric-dashboard.png" alt="Crashlytics Dashboard">
