@@ -12,20 +12,19 @@ tags: [mobile apps, android, ios, crash, analytics]
 Have you ever published a mobile app? Or have you ever developed it? Or if not, I am sure at least you ever tried Android or iOS apps. If yes, you must be familiar with crashes. On Android app (sorry I’m not an iPhone user :p, I dont have example on it), crash or also known as force close is seen by user with a dialog told like “Unfortunately, [App Name] has stopped” or in Indonesia is like “Sayangnya, [Nama Applikasi] Telah Terhenti”. 
 
 <div class="row">
-  <div class="large-5 columns">
+  <div class="large-4 columns">
     <figure>
       <img width="375" src="{{ site.github.url }}/assets/img/posts/crash-example.png" alt="Fabric on Android Studio">
       <figcaption>Crash on Android</figcaption>
     </figure>
   </div>
-  <div class="large-7 columns">
+  <div class="large-8 columns">
 
     <div class="row">
 
       <br/>
-      <br/>
 
-      <span style="font-size: 200%; line-height: 1.5; ">Why should we care to crashes?</span>
+      <strong><span style="font-size: 175%; line-height: 1; ">Why should we care to crashes?</span> </strong>
 
       <br/>
       <br/>
@@ -38,7 +37,7 @@ Have you ever published a mobile app? Or have you ever developed it? Or if not, 
       <br/>
       <br/>
 
-      <span style="font-size: 200%; line-height: 1.5;">Then, how to handle crashes on production? How we know the cause of crashes on every user?</span>
+      <strong> <span style="font-size: 175%; line-height: 1;">Then, how to handle crashes on production? How we know the cause of crashes on every user?</span> </strong>
 
       <br/>
       <br/>
