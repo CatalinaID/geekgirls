@@ -7,6 +7,7 @@ modified: 2017-1-24
 category: software
 thumbnail: screen-shot-google.png
 tags: [search engine, google, how it works]
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1505015332859319
 ---
 
 Have you ever wondered how Google Search works? Like, how a single search could bring millions of results in seconds? How does Google find all of these pages? We have known that the web is already big a long time ago, even bigger nowadays. Google [said]( https://googleblog.blogspot.de/2008/07/we-knew-web-was-big.html) that it found 1 trillion unique URLs in 2008, now around 130 trillion individual pages. With these fascinating numbers, Google Search is still trying to keep our search results relevant enough from tons of junk out there. Let us explore the story behind it.
