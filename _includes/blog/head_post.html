@@ -8,9 +8,9 @@
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.github.url }}{{ page.url }}">
 {% if page.thumbnail %}
-<meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.thumbnail }}">
+<meta property="og:image" content="{{ site.github.url }}/assets/img/posts/{{ page.thumbnail }}">
 {% else %}{% if page.imagefeature %}
-<meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.imagefeature }}">
+<meta property="og:image" content="{{ site.github.url }}/assets/img/posts/{{ page.imagefeature }}">
 {% else %}
 <meta property="og:image" content="{{ site.github.url }}/assets/img/{{ site.default_bg }}">{% endif %}
 {% endif %}
