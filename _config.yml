@@ -44,7 +44,7 @@ markdown: kramdown
 
 
 # Code snippet highlighter
-highlighter: rogue
+highlighter: rouge
 kramdown:
     input: GFM
     syntax_highlighter: rouge
