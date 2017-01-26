@@ -37,3 +37,14 @@ default_bg: default.png
 
 # Google Services
 google_analytics: UA-90324571-1
+
+
+# Markdown
+markdown: kramdown
+
+
+# Code snippet highlighter
+highlighter: rogue
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge

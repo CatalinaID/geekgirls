@@ -217,8 +217,7 @@ iframe {
       @media only screen and (min-width: 70em) {
         .post-template .notepad-post-content > div:not(.notepad-post-title) {
           margin: -10% auto 0; } }
-      .post-template .notepad-post-content > div:not(.notepad-post-title) a, .post-template .notepad-post-content > div:not(.notepad-post-title) code {
-        color: #{{ site.color.secondary }}; }
+      .post-template .notepad-post-content > div:not(.notepad-post-title) a, .post-template .notepad-post-content > div:not(.notepad-post-title) code {  }
       .post-template .notepad-post-content > div:not(.notepad-post-title) ul, .post-template .notepad-post-content > div:not(.notepad-post-title) ol {
         padding-left: 1.25rem;
         font-size: 1.125rem; }
@@ -552,12 +551,22 @@ iframe {
   color: #fff; }
 
 pre {
+  padding: 10px;
+  color: inherit;
   word-wrap: break-word;
   margin-bottom: 1.5625rem; }
 
 code {
+  font-weight: normal;
   font-size: 0.9375rem;
   line-height: 1.2; }
+
+pre code {
+  color: inherit;
+  font-size: 0.9375rem;
+  font-weight: normal;
+  white-space: pre;
+}
 
 iframe {
   border: 0; }
