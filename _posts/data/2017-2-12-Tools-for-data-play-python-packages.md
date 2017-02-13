@@ -8,7 +8,7 @@ category: data
 thumbnail: image4198.png
 tags: [python, pandas, numpy, matplotlib]
 thumbnail: gambar.jpg
-fb-url: https://www.facebook.com/catalinageekgirl/posts/1488572204503632
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1525810540779798
 
 ---
 *"I got some datasets from [here](https://www.kaggle.com/datasets). Then what should I do to get insights from it?"*
