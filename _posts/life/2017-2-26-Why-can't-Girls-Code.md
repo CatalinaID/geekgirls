@@ -7,6 +7,7 @@ modified: 2017-2-26
 category: life
 thumbnail: why-cant-girls-code/cover-wrap.png
 tags: [geek girls, geek, geek life]
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1539231049437747
 ---
 
 In our geeks world, coding world, girls are minority. How this could happen? What are the challenges that girls are facing in our geeks world? Here are doodles on reasons why girls can't code that Catalina has experienced.
