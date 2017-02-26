@@ -9,7 +9,7 @@ thumbnail: why-cant-girls-code/cover-wrap.png
 tags: [geek girls, geek, geek life]
 ---
 
-In our geeks world, coding world, girls are minority. How this could happen? What are the challenges that girls are facing in our geeks world? Here are doodles on reasons why girls can't code that we have experienced.
+In our geeks world, coding world, girls are minority. How this could happen? What are the challenges that girls are facing in our geeks world? Here are doodles on reasons why girls can't code that Catalina has experienced.
 
 <figure>
     <img width="750" src="{{ site.github.url }}/assets/img/posts/why-cant-girls-code/cover-wrap.png">
