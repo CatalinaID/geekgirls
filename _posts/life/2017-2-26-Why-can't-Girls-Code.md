@@ -51,3 +51,5 @@ In our geeks world, coding world, girls are minority. How this could happen? Wha
     <img width="750" src="{{ site.github.url }}/assets/img/posts/why-cant-girls-code/z-closing-wrap.png">
 </figure>  
 
+#### Inspired by:
+1. [YouTube - Why can't girls code?](https://www.youtube.com/watch?v=vXeF6Uot8pk) by: GirlsWhoCode
