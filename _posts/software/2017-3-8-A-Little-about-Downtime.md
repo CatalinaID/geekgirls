@@ -35,11 +35,12 @@ From those causes, we can conclude that downtime has big probability comes from 
 ## Availability
 -----
 From the definition of downtime above, availability can be calculated using this formula:
-<b> Availability = Uptime/(Uptime + Downtime) </b>
+
+Availability = Uptime/(Uptime + Downtime)
 
 Those formula is a simple-to-understand one but actually there is other formula using formal terms.
 
-<b> Availability = MTBF /(MTBF + MTTR) </b>
+Availability = MTBF /(MTBF + MTTR)
 
 Those terms are commonly used if we talk about availibility inside classes. MTBF stands for Mean Time Between Failures, so you can simply assume it as uptime. Then, MTTR is Mean Time to Repair, the times used to make a system up again, it is can be assumed as downtime.  Downtime often measured on a year (365 days) interval and the availability is often presented in nines notation. For example 3-nines corresponds to 99.9% availability and 5-nines corresponds to 99.999% availability like on the table below. As you can see on the table, the difference downtime each one nine increment is very big.
 
