@@ -5,7 +5,7 @@ author: alifa
 description: "downtime, failures, and availability"
 modified: 2017-03-08
 category: software
-thumbnail: downtime.jpg
+imagefeature: downtime.jpg
 tags: [downtime, failure, availability]
 fb-url: 
 ---
