@@ -5,7 +5,7 @@ author: alifa
 description: "-"
 modified: 2017-03-08
 category: software
-thumbnail: fabric-dashboard-copy.png
+thumbnail: downtime.png
 tags: [downtime, failure, availability]
 fb-url: 
 ---
