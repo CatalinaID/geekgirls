@@ -1,0 +1,92 @@
+---
+layout: post
+title: "A Little about Downtime"
+author: alifa
+description: "-"
+modified: 2017-03-08
+category: software
+thumbnail: fabric-dashboard-copy.png
+tags: [downtime, failure, availability]
+fb-url: 
+---
+
+Last week is not a usual one for the company I working for. On Wednesdey Afternoon, someone spoke loudly “www.tokopedia.com down ya??”. Yes, it was a very long down time caused by failure at Biznet Data Center. That incident remains me to one lesson on graduate study. So I write this short post for you geeks!
+
+
+This topic is strongly related with two terms: availability and reliability. Those two terms that sometimes considered as same meaning. So what’s the difference? Is availbility is the same as reliability? I have outlined the definition from references. 
+
+### Availability is the percentage in time when a system on operational state.
+### Reliability represents probability a system give correct answers in some time interval. Availability is much more easier to understand.
+
+Just keep it geeks, or ignore first if it hard to understand. Now we move to the topic itself.
+
+
+## Downtime
+-----
+
+Downtime is time interval when a system is not available. Downtime is also called outage duration. On the real life, there are several causes of downtime, which mostly comes with failures:
+### Hardware Failure
+This failure comes from physical components of a server—the storage drives, the processors (CPUs), memory (RAM), and motherboards. These failures are the top causes of server crash. They can also come with natural disaster or power failure.
+### Software Failures
+Software failures come with the root causes in operating system, server software, or the system itself that can be any logic errors, overload, etc.
+### Human Error
+Human error is also a possible cause of system down. It can be fault on configuration, file corrupts, etc.
+### Maintenance
+How about maintenance? Yes, periodically maintenance is also included to downtime, and included in availability calculation. 
+
+## Availability
+-----
+
+From the definition above, availability can be calculated using this formula:
+
+<b> Availability = Uptime/(Uptime + Downtime) . </b>
+
+Those formula is a simple-to-understand one but actually there is other formula using formal terms.
+
+<b> Availability = MTBF /(MTBF + MTTR) . </b>
+
+Those terms are commonly used if we talk about availibility inside classes. MTBF stands for Mean Time Between Failures, so you can simply assume it as uptime. Then, MTTR is Mean Time to Repair, the times used to make a system up again, it is can be assumed as downtime. 
+
+Downtime often measured on a year (365 days) interval and the availability is often presented in nines notation. For example 3-nines corresponds to 99.9% availability and 5-nines corresponds to 99.999% availability like on the table below. 
+
+<div class="row">
+  <div class="large-12 columns">
+    <table>
+      <thead>
+        <tr>
+          <th>Availability</th>
+          <th>Downtime</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>90% (1 nine)</td>
+          <td>36,5 days/year</td>
+        </tr>
+        <tr>
+          <td>99% (2 nines)</td>
+          <td>3,65 days/year</td>
+        </tr>
+        <tr>
+          <td>99,9% (3 nines)</td>
+          <td>8,76 hours/year</td>
+        </tr>
+        <tr>
+          <td>99,99% (3 nines)</td>
+          <td>52 minutes/year</td>
+        </tr>
+        <tr>
+          <td>99,999% (3 nines)</td>
+          <td>5 minutes/year</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+## Yeah!
+-----
+
+Oke, there are little thing I can share about downtime and the friends (availibity, failures, and reliability). Sorry for radom topic and for the mistakes, because I am not a pro. Thank you!
+
+
