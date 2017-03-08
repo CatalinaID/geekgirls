@@ -10,7 +10,7 @@ tags: [downtime, failure, availability]
 fb-url: https://www.facebook.com/catalinageekgirl/posts/1550627401631445
 ---
 
-Last week is not a usual one for the company I working for. On Wednesdey Afternoon, someone spoke loudly “www.tokopedia.com down ya??”. Yes, it was a very long down time caused by failure at Biznet Data Center. That incident remains me to one lesson on graduate study. So I write this short post for you geeks!
+Last week is not a usual one for the company I working for. On Wednesdey Afternoon, someone spoke loudly “www.tokopedia.com down ya??”. Yes, it was a very long down time caused by failure at Biznet Data Center. That incident reminds me to one lesson on graduate study. So I write this short post for you geeks!
 
 This topic is strongly related with two terms: availability and reliability. Those two terms that sometimes considered as same meaning. So what’s the difference? Is availbility same as reliability? I have outlined the definition from references. 
 * <b>Availability</b> is the percentage in time when a system on operational state.
