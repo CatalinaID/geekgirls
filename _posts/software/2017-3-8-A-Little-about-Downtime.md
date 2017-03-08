@@ -40,13 +40,13 @@ From the definition of downtime above, in formal notation availability can be ca
 
 Those terms are commonly used if we talk about availibility inside classes. MTBF stands for Mean Time Between Failures, so you can simply assume it as uptime. Then, MTTR is Mean Time to Repair, the times used to make a system up again, it is can be assumed as downtime.  Downtime often measured on a year (365 days) interval and the availability is often presented in nines notation. For example 3-nines corresponds to 99.9% availability and 5-nines corresponds to 99.999% availability like on the table below. As you can see on the table, the difference downtime each one nine increment is very big.
 
-<div class="row">
+<div class="row center">
   <div class="large-12 columns">
     <table>
       <thead>
         <tr>
-          <th class="large-6 columns">Availability</th>
-          <th class="large-6 columns">Downtime</th>
+          <th>Availability</th>
+          <th>Downtime</th>
         </tr>
       </thead>
       <tbody>
