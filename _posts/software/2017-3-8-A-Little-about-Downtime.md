@@ -2,10 +2,10 @@
 layout: post
 title: "A Little about Downtime"
 author: alifa
-description: "-"
+description: "downtime, failures, and availability"
 modified: 2017-03-08
 category: software
-thumbnail: downtime.png
+thumbnail: downtime.jpg
 tags: [downtime, failure, availability]
 fb-url: 
 ---
@@ -87,5 +87,6 @@ Oke, there are little thing I can share about downtime and the friends (availibi
 * http://reliabilityweb.com/tips/article/understanding_the_difference_between_reliability_and_availability
 * https://en.wikipedia.org/wiki/Downtime
 * http://www.monitance.com/en/tips-for-using-monitance/server-downtimes-impact-causes-and-avoidance/
+* http://www.sweetapollo.co.uk/wp-content/uploads/2013/11/ServerDowntime-800x400.jpg
 
 
