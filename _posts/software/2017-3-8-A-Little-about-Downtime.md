@@ -7,7 +7,7 @@ modified: 2017-03-08
 category: software
 imagefeature: downtime.jpg
 tags: [downtime, failure, availability]
-fb-url: 
+fb-url: https://www.facebook.com/catalinageekgirl/posts/1550627401631445
 ---
 
 Last week is not a usual one for the company I working for. On Wednesdey Afternoon, someone spoke loudly “www.tokopedia.com down ya??”. Yes, it was a very long down time caused by failure at Biznet Data Center. That incident remains me to one lesson on graduate study. So I write this short post for you geeks!
@@ -28,7 +28,7 @@ Software failures come with the root causes in operating system, server software
 * <b>Human Error</b>
 Human error is also a possible cause of system down. It can be fault on configuration, file corrupts, file deletion, and other inadvertence action.
 * <b>Maintenance</b>
-How about maintenance? Yes, periodically maintenance is included to downtime, and included in availability calculation. Why? Though it aims to upgrade the system, from users' view maitenance still be annoying one and of course from business view there will be impact to the GMV.
+How about maintenance? Yes, periodically maintenance is included to downtime, and included in availability calculation. Why? Though it aims to upgrade the system, from users' view maitenance still be annoying one and of course from business view, there will be such impacts to the GMV.
 
 From those causes, we can conclude that downtime has big probability comes from the third party, not from our system itself. So that the use of back-up is very important here. Backup is not only about the data, backup server resources are also important. 
 
