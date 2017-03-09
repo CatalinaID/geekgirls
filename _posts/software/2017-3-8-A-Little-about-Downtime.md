@@ -30,7 +30,7 @@ Human error is also a possible cause of system down. It can be fault on configur
 * <b>Maintenance</b>
 How about maintenance? Yes, sheduled maintenance is included to downtime, and included in availability calculation. Why? Though it aims to upgrade the system, from users' view maitenance still be annoying one and of course from business view, there will be such impacts to the GMV.
 
-From those causes, we can conclude that downtime has big probability comes from the third party, not from our system itself. So that the use of back-up is very important here. Backup is not only about the data, backup server resources are also important. 
+From those causes, we can conclude that downtime has big probability comes from the third party, not from our system itself. So that the use of back-up is very important here. Backup is not only about the data, backup server resources are also important. The backup (data, application server, etc) can be used as temporary resources, until the main resources up again. Though the transfer is not easy, it's difficult, especially for a large scale system with large amount of users.
 
 ## Availability
 -----
